@@ -13,8 +13,7 @@ My portfolio website features a clean, modern, and minimalistic design, reflecti
 ## 🚀 Skills & Technologies
 
 - **Languages**: HTML, CSS, JavaScript
-- **Frameworks**: React, Bootstrap
-- **Tools**: Git, GitHub, VS Code, Figma
+- **Tools**: Git, GitHub, VS Code,
 
 ## 📂 Featured Projects
 
